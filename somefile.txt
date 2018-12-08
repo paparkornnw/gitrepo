@@ -1,2 +1,2 @@
 The quick broen fox jumps over the lazy dog;
-
+This sentence is a pangram, a sentence that contains all of the letters of the alphabet.
